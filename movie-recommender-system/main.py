@@ -22,7 +22,7 @@ def recommend(movie):
     return recommended_movies, recommended_movies_posters
 
 movies_dict = pickle.load(open('./movie-recommender-system/movie_dict.pkl','rb'))
-import bz2
+import bz2file as bz2
 def decompress_pickle(file):
     data = bz2.BZ2File(file, 'rb')
     data = pickle.load(data)
