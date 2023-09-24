@@ -27,7 +27,7 @@ def decompress_pickle(file):
     data = bz2.BZ2File(file, 'rb')
     data = pickle.load(data)
     return data
-similarity = decompress_pickle('similarity.pbz2')
+similarity = decompress_pickle('./movie-recommender-system/similarity.pbz2')
 movies = pd.DataFrame(movies_dict)
 st.title('Movie Recommender System')
 
