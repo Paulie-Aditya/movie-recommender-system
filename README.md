@@ -8,7 +8,7 @@ Huge Thanks to CampusX for getting me started on my #MachineLearning journey and
 You can find the project live and deployed here: https://movie-recommender-system-paulie.streamlit.app/
 
 **Links:**
-🔗 Website: [Website](https://movie-recommender-system-paulie.streamlit.app/)
-🔗 Github Link: [Github Repo](https://github.com/Paulie-Aditya/movie-recommender-system/)
-🔗 Dataset Used: [Kaggle Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+🔗 Website: [Website](https://movie-recommender-system-paulie.streamlit.app/) <br>
+🔗 Github Link: [Github Repo](https://github.com/Paulie-Aditya/movie-recommender-system/) <br>
+🔗 Dataset Used: [Kaggle Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) <br>
 
